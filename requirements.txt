@@ -1,4 +1,11 @@
-pandas 
-sklearn
+pandas
+numpy
+scikit-learn
 matplotlib
 seaborn
+statsmodels
+xgboost 
+prophet
+datetime
+missingno
+warnings
