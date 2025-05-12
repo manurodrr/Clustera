@@ -9,3 +9,8 @@ prophet
 datetime
 missingno
 warnings
+data-wrangler
+scipy
+unidecode
+plotly
+gudhi
