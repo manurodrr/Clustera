@@ -1,12 +1,5 @@
-import React from 'react';
-
-function SupplierDashboard() {
-  return (
-    <div className="dashboard-container">
-      <h1>Supplier Dashboard</h1>
-      <p>Welcome to the Supplier Dashboard</p>
-    </div>
-  );
-}
+const SupplierDashboard = () => {
+  return <h1>Bienvenido al Panel de Proveedor</h1>;
+};
 
 export default SupplierDashboard;

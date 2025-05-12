@@ -1,12 +1,5 @@
-import React from 'react';
-
-function AgentDashboard() {
-  return (
-    <div className="dashboard-container">
-      <h1>Agent Dashboard</h1>
-      <p>Welcome to the Agent Dashboard</p>
-    </div>
-  );
-}
+const AgentDashboard = () => {
+  return <h1>Bienvenido al Panel de Agente</h1>;
+};
 
 export default AgentDashboard;
