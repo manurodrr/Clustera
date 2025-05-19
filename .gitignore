@@ -1,5 +1,7 @@
 Data/
 *.csv
+Outputs/
+*.png
 __pycache__/
 *.py[cod]
 *.pyo
