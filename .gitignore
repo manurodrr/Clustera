@@ -1,7 +1,8 @@
-Data/
-*.csv
+Data/*.csv
+Data/*.png
 Outputs/
 *.png
+*.csv
 __pycache__/
 *.py[cod]
 *.pyo
