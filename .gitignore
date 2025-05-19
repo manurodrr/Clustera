@@ -1,4 +1,5 @@
 Data/*.csv
+Data/*.html
 Data/*.png
 Outputs/
 *.png
