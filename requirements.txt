@@ -14,3 +14,6 @@ scipy
 unidecode
 plotly
 gudhi
+hashlib
+uuid
+json

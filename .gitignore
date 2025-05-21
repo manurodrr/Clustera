@@ -4,6 +4,7 @@ Data/*.png
 Outputs/
 *.png
 *.csv
+*.json
 __pycache__/
 *.py[cod]
 *.pyo
